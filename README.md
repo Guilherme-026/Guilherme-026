@@ -2,7 +2,7 @@
 <h1>💫 Sobre mim</h2>
 
  <div align="left"  >  
-  <img src="[https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif](https://tenor.com/3QOE.gif"  width="250"  align="right"  alt="Formando img"/>
+  <img src="(https://tenor.com/pt-BR/view/working-from-home-computer-homework-gif-13271998)(https://tenor.com/3QOE.gif"  width="250"  align="right"  alt="Formando img"/>
 
    
   👋 Olá, pessoal! Me chamo Guilherme Oliveira, amo ouvir música, ler livros e assistir anime <br> <br>
