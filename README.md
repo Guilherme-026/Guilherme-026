@@ -5,19 +5,19 @@
   <img src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif"  width="250"  align="right"  alt="Formando img"/>
 
    
-  👋 Olá, pessoal! Me chamo Valeska, uma admiradora da tecnologia e apaixonada por programação <br> <br>
-  🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) no Descomplica  <br> <br>
-  🐞 Meu foco e paixão estão em Desenvolvimento Back End  <br> <br>
+  👋 Olá, pessoal! Me chamo Guilherme Oliveira, amo ouvir música, ler livros e assistir anime <br> <br>
+  🎓 Atualmente, estou cursando ProProfissão no Instituto Proa  <br> <br>
+  🐞 Tenho como meta, me tornar um Desenvolvedor FullStack  <br> <br>
   🌱 Estou constantemente em busca de conhecimento para aprimorar minhas habilidades  <br> <br>
  
  </div>
 
  <h2>Interaja comigo</h2>
   
-  <a href="valeskkitty@gmail.com">
+  <a href="guilhermeoliveirafrancisco.026@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-  <a href="www.linkedin.com/in/valeskamdev">
+  <a href="www.linkedin.com/in/guilherme-oliveirafrancisco">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br><br>
