@@ -45,7 +45,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
   <p align="center">
     
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,postgres,nodejs,react,java,docker" />
+    <img src="https://skillicons.dev/icons?i=js,kotlin,mongodb,figma" />
   </a>
 </p>
 
