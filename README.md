@@ -14,7 +14,7 @@
 
  <h2>Interaja comigo</h2>
   
- [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guilherme-oliveirafrancisco)](www.linkedin.com/in/guilherme-oliveirafrancisco) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-oliveirafrancisco/)](https://www.linkedin.com/in/guilherme-oliveirafrancisco/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermeoliveirafrancisco.026@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeoliveirafrancisco.026@gmail.com)](mailto:guilhermeoliveirafrancisco.026@gmail.com) <br>
 
 <br><br>
